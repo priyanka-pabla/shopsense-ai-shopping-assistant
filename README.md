@@ -6,6 +6,12 @@ The application provides personalized product recommendations based on customer 
 
 Built using Python, OpenAI, and Streamlit, ShopSense demonstrates how conversational AI can enhance the online shopping experience.
 
+## Live Demo
+
+🚀 [Try ShopSense AI](https://shopsense-ai-shopping-assistant-kwrqswa7o2hg4oj74v3mh7.streamlit.app/)
+
+Explore personalized product recommendations, conversational shopping, and budget-aware suggestions through the interactive demo.
+
 ## Key Features
 
 - **Conversational AI:** Understands customer queries expressed in natural language.
