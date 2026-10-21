@@ -1,0 +1,550 @@
+
+[
+    {
+        "name": "BloomFresh Papaya Cleanser",
+        "category": "Skincare",
+        "product_type": "Face Wash",
+        "purpose": [
+            "Skin cleansing",
+            "Dull skin",
+            "Skin brightening"
+        ],
+        "skin_type": [
+            "All skin types"
+        ],
+        "ingredients": [
+            "Papaya Extract"
+        ],
+        "usage": [
+            "Morning cleansing",
+            "Evening cleansing"
+        ],
+        "product_quantity": "100 ml",
+        "price": 299,
+        "currency": "INR",
+        "availability": "in stock",
+        "product_url": ""
+    },
+
+    {
+        
+        "name": "AquaGlow Rice Cleanser",
+        "category": "Skincare",
+        "product_type": "Face Wash",
+        "purpose": [
+            "Daily cleansing",
+            "Dull skin",
+            "Skin brightening",
+            "Hydration",
+            "Remove excess oil and impurities"
+        ],
+        "skin_type": [
+            "All skin types"
+        ],
+        "ingredients": [
+            "Rice Water",
+            "Niacinamide",
+            "Vitamin C",
+            "Mulberry Extract"
+        ],
+        "usage": [
+            "Daily face cleansing"
+        ],
+        "product_quantity": "100 ml",
+        "price": 349,
+        "currency": "INR",
+        "availability": "In stock",
+        "product_url": ""
+    },
+
+    {
+        "name": "CitraGlow Vitamin C Cleanser",
+        "category": "Skincare",
+        "product_type": "Face Wash",
+        "purpose": [
+            "Daily cleansing",
+            "Skin brightening",
+            "Dull skin",
+            "Uneven skin tone",
+            "Hydration",
+            "Remove excess oil and impurities"
+        ],
+        "skin_type": [
+            "All skin types"
+        ],
+        "ingredients": [
+            "Vitamin C",
+            "Orange"
+        ],
+        "usage": [
+            "Morning cleansing",
+            "Night cleansing",
+            "Pre-makeup cleansing"
+        ],
+        "product_quantity": "100 ml",
+        "price": 279,
+        "currency": "INR",
+        "availability": "In stock",
+        "product_url": ""
+    },
+
+    {
+
+        "name": "LumiRevive Radiance Serum",
+        "category": "Skincare",
+        "product_type": "Serum",
+        "purpose": [
+            "Skin brightening",
+            "Dull skin",
+            "Uneven skin tone",
+            "Dark spots",
+            "Pigmentation",
+            "Skin hydration",
+            "Skin texture improvement",
+            "Gentle exfoliation"
+        ],
+        "skin_type": [
+            "All skin types"
+        ],
+        "ingredients": [
+            "Vitamin E",
+            "Vitamin B5",
+            "Niacinamide",
+            "Glycolic Acid"
+        ],
+        "usage": [],
+        "product_quantity": "30 ml",
+        "price": 699,
+        "currency": "INR",
+        "availability": "In stock",
+        "product_url": ""
+    },
+
+    {
+        "name": "HydraGlow Daily Moisturizer",
+        "category": "Skincare",
+        "product_type": "Moisturizer",
+        "purpose": [
+            "Daily hydration",
+            "Dry skin",
+            "Skin barrier support",
+            "Moisturizing skincare routine"
+        ],
+        "skin_type": [
+            "All skin types"
+        ],
+        "ingredients": [
+            "Hyaluronic Acid",
+            "Glycerin"
+        ],
+        "usage": [
+            "Morning after cleansing",
+            "Night after cleansing"
+        ],
+        "product_quantity": "50 g",
+        "price": 349,
+        "currency": "INR",
+        "availability": "In stock"
+    },
+
+    {
+                
+        "name": "SunShield Glow SPF 50+",
+        "category": "Skincare",
+        "product_type": "Sunscreen",
+        "purpose": [
+            "Sun protection",
+            "UVA protection",
+            "UVB protection",
+            "Daily sunscreen",
+            "Uneven skin tone",
+            "Skin nourishment",
+            "Lightweight sun protection"
+        ],
+        "skin_type": [
+            "All skin types"
+        ],
+        "ingredients": [
+            "Niacinamide",
+            "Vitamin E"
+        ],
+        "usage": [],
+        "product_quantity": "100 ml",
+        "price": 599,
+        "currency": "INR",
+        "availability": "In stock",
+        "product_url": ""
+    },
+
+    {
+        
+        "name": "BloomFresh Papaya Facial Kit",
+        "category": "Skincare",
+        "product_type": "Facial Kit",
+        "purpose": [
+            "Skin brightening",
+            "Dull skin",
+            "Pigmentation",
+            "Dark spots",
+            "Deep cleansing",
+            "Skin hydration",
+            "Uneven skin tone",
+            "Skin texture improvement"
+        ],
+        "skin_type": [
+            "All skin types"
+        ],
+        "ingredients": [
+            "Papaya Extract"
+        ],
+        "usage": [
+            "Step 1: Cleanser",
+            "Step 2: Exfoliating Scrub",
+            "Step 3: Repair Cream",
+            "Step 4: Facial Gel",
+            "Step 5: Massage Cream",
+            "Step 6: Face Pack"
+        ],
+        "product_quantity": "60 g",
+        "price": 379,
+        "currency": "INR",
+        "availability": "In stock",
+        "product_url": ""
+    },
+
+    {
+        
+
+        "name": "CitraGlow Vitamin C Facial Kit",
+        "category": "Skincare",
+        "product_type": "Facial Kit",
+        "purpose": [
+            "Skin brightening",
+            "Dull skin",
+            "Uneven skin tone",
+            "Dark spots",
+            "Skin hydration",
+            "Cooling effect",
+            "Deep cleansing",
+            "Skin refreshment"
+        ],
+        "skin_type": [
+            "All skin types"
+        ],
+        "ingredients": [
+            "Vitamin C"
+        ],
+        "usage": [
+            "Step 1: Cleanser",
+            "Step 2: Exfoliating Scrub",
+            "Step 3: Repair Cream",
+            "Step 4: Facial Gel",
+            "Step 5: Massage Cream",
+            "Step 6: Face Pack",
+            "Step 7: Sheet Mask"
+        ],
+        "product_quantity": "70 g",
+        "price": 399,
+        "currency": "INR",
+        "availability": "Out of Stock",
+        "product_url": ""
+    },
+
+    {
+        
+
+        "name": "BloomFresh Glow Duo",
+        "category": "Skincare",
+        "product_type": "Combo",
+        "purpose": [
+            "Skin brightening",
+            "Dull skin",
+            "Pigmentation",
+            "Deep cleansing",
+            "Skin hydration",
+            "Uneven skin tone",
+            "Complete skincare routine"
+        ],
+        "skin_type": [
+            "All skin types"
+        ],
+        "ingredients": [
+            "Papaya Extract"
+        ],
+        "usage": [
+            "Daily: BloomFresh Papaya Cleanser",
+            "Weekly: BloomFresh Papaya Facial Kit"
+        ],
+        "product_quantity": "2 products",
+        "items_in_combo": [
+            "BloomFresh Papaya Cleanser",
+            "BloomFresh Papaya Facial Kit"
+        ],
+        "price": 499,
+        "currency": "INR",
+        "availability": "In stock",
+        "product_url": ""
+    },
+    {
+        
+        "name": "Radiance Ritual Facial Duo",
+        "category": "Skincare",
+        "product_type": "Combo",
+        "purpose": [
+            "Skin brightening",
+            "Dull skin",
+            "Pigmentation",
+            "Dark spots",
+            "Uneven skin tone",
+            "Deep cleansing",
+            "Exfoliation",
+            "Skin hydration",
+            "Complete facial care"
+        ],
+        "skin_type": [
+            "All skin types"
+        ],
+        "ingredients": [
+            "Papaya Extract",
+            "Vitamin C"
+        ],
+        "usage": [
+            "BloomFresh Papaya Facial Kit: Follow product instructions",
+            "CitraGlow Vitamin C Facial Kit: Follow product instructions"
+        ],
+        "product_quantity": "2 facial kits (60 g + 70 g)",
+        "items_in_combo": [
+            "BloomFresh Papaya Facial Kit",
+            "CitraGlow Vitamin C Facial Kit"
+        ],
+        "price": 549,
+        "currency": "INR",
+        "availability": "In stock",
+        "product_url": ""
+    },
+
+    {
+        
+
+        "name": "GlowFusion Cleansing Duo",
+        "category": "Skincare",
+        "product_type": "Combo",
+        "purpose": [
+            "Daily cleansing",
+            "Skin brightening",
+            "Dull skin",
+            "Uneven skin tone",
+            "Tan removal support",
+            "Deep cleansing",
+            "Skin hydration",
+            "Complete skincare routine"
+        ],
+        "skin_type": [
+            "All skin types"
+        ],
+        "ingredients": [
+            "Vitamin C",
+            "Orange",
+            "Papaya Extract"
+        ],
+        "usage": [
+            "Morning: CitraGlow Vitamin C Cleanser",
+            "Evening: BloomFresh Papaya Cleanser"
+        ],
+        "product_quantity": "2 face washes",
+        "items_in_combo": [
+            "CitraGlow Vitamin C Cleanser",
+            "BloomFresh Papaya Cleanser"
+        ],
+        "price": 479,
+        "currency": "INR",
+        "availability": "In stock",
+        "product_url": ""
+    },
+
+    {
+        "name": "SilkRoot Hydrating Shampoo",
+        "category": "Haircare",
+        "product_type": "Shampoo",
+        "purpose": [
+            "Hair cleansing",
+            "Dry hair care",
+            "Frizz management",
+            "Hair hydration"
+        ],
+        "skin_type": [],
+        "ingredients": [
+            "Aloe Vera",
+            "Argan Oil",
+            "Glycerin"
+        ],
+        "usage": [
+            "Apply to wet hair",
+            "Massage gently and rinse thoroughly"
+        ],
+        "product_quantity": "250 ml",
+        "items_in_combo": [],
+        "price": 799,
+        "currency": "INR",
+        "availability": "In stock",
+        "product_url": ""
+    },
+
+    
+    {
+        "name": "SilkRoot Repair Conditioner",
+        "category": "Haircare",
+        "product_type": "Conditioner",
+        "purpose": [
+            "Dry hair care",
+            "Frizz management",
+            "Hair softening",
+            "Hair conditioning",
+            "Improving manageability"
+        ],
+        "skin_type": [],
+        "ingredients": [
+            "Argan Oil",
+            "Shea Butter",
+            "Panthenol"
+        ],
+        "usage": [
+            "Apply to clean, wet hair",
+            "Focus on mid-lengths and ends",
+            "Rinse thoroughly"
+        ],
+        "product_quantity": "250 ml",
+        "items_in_combo": [],
+        "price": 899,
+        "currency": "INR",
+        "availability": "In stock",
+        "product_url": ""
+    },
+
+    
+    {
+        "name": "SilkRoot Nourishing Hair Serum",
+        "category": "Haircare",
+        "product_type": "Hair Serum",
+        "purpose": [
+            "Frizz management",
+            "Hair smoothening",
+            "Dry hair care",
+            "Adding shine",
+            "Improving manageability"
+        ],
+        "skin_type": [],
+        "ingredients": [
+            "Argan Oil",
+            "Vitamin E",
+            "Jojoba Oil"
+        ],
+        "usage": [
+            "Apply a small amount to hair lengths and ends",
+            "Use on damp or dry hair",
+            "Avoid direct contact with eyes"
+        ],
+        "product_quantity": "50 ml",
+        "items_in_combo": [],
+        "price": 1199,
+        "currency": "INR",
+        "availability": "In stock",
+        "product_url": ""
+    },
+    
+    {
+        "name": "VelvetBloom Hydrating Body Wash",
+        "category": "Body Care",
+        "product_type": "Body Wash",
+        "purpose": [
+            "Body cleansing",
+            "Dry skin care",
+            "Skin hydration",
+            "Gentle cleansing"
+        ],
+        "skin_type": [
+            "Normal skin",
+            "Dry skin"
+        ],
+        "ingredients": [
+            "Aloe vera",
+            "Glycerin"
+        ],
+        "usage": [
+            "Body cleansing during shower"
+        ],
+        "product_quantity": "250 ml",
+        "price": 649,
+        "currency": "INR",
+        "availability": "In stock",
+        "items_in_combo": [],
+        "product_url": ""
+    },
+
+    
+    {
+        "name": "VelvetBloom Nourishing Body Lotion",
+        "category": "Body Care",
+        "product_type": "Body Lotion",
+        "purpose": [
+            "Body moisturizing",
+            "Dry skin care",
+            "Skin hydration",
+            "Skin softening"
+        ],
+        "skin_type": [
+            "Normal skin",
+            "Dry skin"
+        ],
+        "ingredients": [
+            "Shea butter",
+            "Glycerin",
+            "Vitamin E"
+        ],
+        "usage": [
+            "Body moisturizing after shower"
+        ],
+        "product_quantity": "250 ml",
+        "price": 899,
+        "currency": "INR",
+        "availability": "In stock",
+        "items_in_combo": [],
+        "product_url": ""
+    },
+    
+    {
+        "name": "VelvetBloom Repair Hand Cream",
+        "category": "Body Care",
+        "product_type": "Hand Cream",
+        "purpose": [
+            "Dry hands care",
+            "Hand moisturizing",
+            "Skin softening",
+            "Hand hydration"
+        ],
+        "skin_type": [
+            "Normal skin",
+            "Dry skin"
+        ],
+        "ingredients": [
+            "Shea butter",
+            "Glycerin",
+            "Vitamin E"
+        ],
+        "usage": [
+            "Hand moisturizing as needed"
+        ],
+        "product_quantity": "75 ml",
+        "price": 449,
+        "currency": "INR",
+        "availability": "In stock",
+        "items_in_combo": [],
+        "product_url": ""
+    }
+
+
+
+
+
+  
+]
